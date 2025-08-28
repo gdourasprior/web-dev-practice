@@ -1,0 +1,4 @@
+-splash page
+-todo list
+-weather app
+-get wikigame working to some degree!
